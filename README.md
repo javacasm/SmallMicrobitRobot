@@ -18,3 +18,14 @@ Añadimos un [sensor de ultrasonidos de 3 pines](https://www.elecfreaks.com/esto
 ![programacion](https://www.elecfreaks.com/estore/media/wysiwyg/QQ_20190226134336.png)
 
 [Programa](https://makecode.microbit.org/_RW0VecFL0dJw)
+
+### Haciendo equilibrios
+
+### V0 Sólo usando tiempos
+[Equilibrios](https://twitter.com/google_homer_/status/1178930713921376258)
+
+![video](https://twitter.com/i/status/1178930713921376258)
+
+![programa](https://pbs.twimg.com/media/EFxnnitU4AABJvD?format=png&name=small)
+
+### V1 Usando el acelerómetro
