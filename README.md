@@ -23,6 +23,9 @@ Utiliza una pieza de plástico
 
 ![Pieza similar](https://csg.tinkercad.com/things/c2KHwhFIUlu/t725.png)
 
+![Pieza similar](./images/wallBot_clone.png)
+
+
 ## Mejora/ampliación: sensor de ultrasonidos
 Añadimos un [sensor de ultrasonidos de 3 pines](https://www.elecfreaks.com/estore/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)
 
