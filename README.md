@@ -1,6 +1,6 @@
-# Small micro:bit Robot
+# Small micro:bit Robot: WallBot
 
-Creado por [@google_homer_](https://twitter.com/google_homer_) [aquí](https://twitter.com/google_homer_/status/1178613025651089409)
+Se trata de un robot minimalista creado por [@google_homer_](https://twitter.com/google_homer_) [aquí](https://twitter.com/google_homer_/status/1178613025651089409)
 
 ![3](https://pbs.twimg.com/media/EFtGSH7U4AAQ_p0?format=jpg)
 ![4](https://pbs.twimg.com/media/EFtGSIAUYAEYRKM?format=jpg)
@@ -11,6 +11,19 @@ Capaz de subir por una pizarra metálica en la pared o [techo](https://twitter.c
 
 ![pizarra](https://pbs.twimg.com/media/EFnKBWtU4AIGRUK?format=jpg&name=4096x4096)
 
+## Estructura
+
+Utiliza una pieza de plástico
+
+![pieza interna](https://pbs.twimg.com/media/EFy5GpgU8AYRq-j?format=jpg&name=900x900)
+
+![detalle](https://pbs.twimg.com/media/EFy5GL3VAAICy7F?format=jpg&name=900x900)
+
+[Diseño de pieza similar](https://www.tinkercad.com/things/c2KHwhFIUlu)
+
+![Pieza similar](https://csg.tinkercad.com/things/c2KHwhFIUlu/t725.png)
+
+## Mejora/ampliación: sensor de ultrasonidos
 Añadimos un [sensor de ultrasonidos de 3 pines](https://www.elecfreaks.com/estore/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)
 
 ![sensor 3 pines](https://i.imgur.com/fvYx5lR.jpg)
@@ -19,7 +32,7 @@ Añadimos un [sensor de ultrasonidos de 3 pines](https://www.elecfreaks.com/esto
 
 [Programa](https://makecode.microbit.org/_RW0VecFL0dJw)
 
-### Haciendo equilibrios
+## Haciendo equilibrios
 
 ### V0 Sólo usando tiempos
 [Equilibrios](https://twitter.com/google_homer_/status/1178930713921376258)
